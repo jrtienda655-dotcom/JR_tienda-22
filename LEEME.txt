@@ -1,0 +1,4 @@
+JR_tienda: archivos del sitio instalable
+Sube TODOS estos archivos a tu sitio (GitHub Pages o Netlify). Abre tu dirección en el teléfono y toca "Descargar app".
+Administrar: abre tu dirección con #acceso al final. La primera vez creas tu código de administrador; quien lo sepa puede editar.
+Publicar cambios: en Gestión toca "Publicar cambios", se descarga productos.json, súbelo al sitio y reemplaza el anterior.
